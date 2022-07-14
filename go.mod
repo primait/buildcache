@@ -3,6 +3,7 @@ module github.com/primait/buildcache
 go 1.18
 
 require (
+	github.com/Sirupsen/logrus v1.0.6
 	github.com/docker/docker v1.4.2-0.20170118181538-0e8c7d727718
 	github.com/docker/go-connections v0.2.2-0.20170101210128-eb315e364153
 	github.com/docker/go-units v0.3.2-0.20161130221531-e30f1e79f3cd
@@ -16,6 +17,8 @@ require (
 )
 
 require (
+	github.com/Microsoft/go-winio v0.5.2 // indirect
+	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
-	golang.org/x/sys v0.0.0-20191026070338-33540a1f6037 // indirect
+	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c // indirect
 )
