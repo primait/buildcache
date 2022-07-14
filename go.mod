@@ -9,7 +9,7 @@ require (
 	github.com/dustin/go-humanize v0.0.0-20170110072254-7a41df006ff9
 	github.com/opencontainers/go-digest v0.0.0-20170111181659-21dfd564fd89
 	github.com/pkg/errors v0.8.1-0.20161029093637-248dadf4e906
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.7.0
 	github.com/spf13/cobra v0.0.0-20170118185516-dc208f4211e7
 	github.com/spf13/pflag v0.0.0-20170116163251-51268031d799
 	golang.org/x/crypto v0.0.0-20170118185426-b8a2a83acfe6
