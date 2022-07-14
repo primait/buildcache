@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/docker/docker/api/types/versions"
 	engineapi "github.com/docker/docker/client"
 	digest "github.com/opencontainers/go-digest"
