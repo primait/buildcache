@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	engineapi "github.com/docker/docker/client"
 	humanize "github.com/dustin/go-humanize"
 	"github.com/spf13/cobra"
